@@ -3,7 +3,7 @@
 🌱 I’m currently learning basic to advanced topics in machine learning, data science, and data analysis.
 💞️ I’m looking to collaborate on innovative projects in machine learning and data science, as well as game development initiatives.
 📫 How to reach me:
-     LinkedIn
+     LinkedIn : linkedin.com/in/arashomidi
      Email: arash.ds3t@gmail.com
 
 <!---
