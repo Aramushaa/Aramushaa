@@ -24,18 +24,33 @@ I enjoy building practical systems that connect sensor data to useful outcomes:
 
 ## Featured projects
 
+### Laboratory Temperature & Humidity Monitoring System
+An IoT monitoring system designed to collect, store, and visualize environmental data from multiple laboratory sensors.
+
+- Simulated and real sensor data for temperature and humidity
+- Centralized catalog service for managing devices and sensors
+- Data collection through REST-based communication
+- Time-series storage and historical data tracking
+- Basic alerting and monitoring logic
+- Modular Python codebase structured for scalability
+
+This project helped me understand how a complete IoT monitoring pipeline works, from device registration to data storage and visualization.
+
+Repository:  
+https://github.com/Aramushaa/Lab_temp_hum_monitor
+
 ### ThiefDetector (IoT Intrusion Demo)
 An IoT prototype that detects events and supports monitoring and alerting.
 - Messaging: MQTT
 - Backend: Python
 - Storage/Monitoring: time-series + dashboards (in progress)
-- Repo: [https://github.com/Aramushaa/thief-detector-iot]
+- Repo: [https://github.com/Aramushaa/Iot-uni-project]
 
 ### Smart Tennis Field (Master’s Thesis – in progress)
 An IoT system for a tennis court using ST AIoT Craft kits to detect events and publish them for monitoring.
 - Goal: detect and publish game-related events with low latency
 - Planned flow: device events → MQTT → storage → dashboards/alerts
-- Repo: [https://github.com/Aramushaa/smart-tennis-iot]
+- Repo: [https://github.com/Aramushaa/smart-tennis-field]
 
 ## Tech stack (current)
 
