@@ -36,21 +36,20 @@ An IoT monitoring system designed to collect, store, and visualize environmental
 
 This project helped me understand how a complete IoT monitoring pipeline works, from device registration to data storage and visualization.
 
-Repository:  
-https://github.com/Aramushaa/Lab_temp_hum_monitor
+Repo: https://github.com/Aramushaa/Lab_temp_hum_monitor
 
 ### ThiefDetector (IoT Intrusion Demo)
 An IoT prototype that detects events and supports monitoring and alerting.
 - Messaging: MQTT
 - Backend: Python
 - Storage/Monitoring: time-series + dashboards (in progress)
-- Repo: [https://github.com/Aramushaa/Iot-uni-project]
+- Repo: https://github.com/Aramushaa/ThiefDetector
 
 ### Smart Tennis Field (Master’s Thesis – in progress)
 An IoT system for a tennis court using ST AIoT Craft kits to detect events and publish them for monitoring.
 - Goal: detect and publish game-related events with low latency
 - Planned flow: device events → MQTT → storage → dashboards/alerts
-- Repo: [https://github.com/Aramushaa/smart-tennis-field]
+- Repo: https://github.com/Aramushaa/smart-tennis-field
 
 ## Tech stack (current)
 
