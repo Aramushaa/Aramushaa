@@ -68,5 +68,5 @@ An IoT system for a tennis court using ST AIoT Craft kits to detect events and p
 - Useful monitoring and alerts, not just raw data
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/[your-link]]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/arashomidi
+- Email: arash.ds3t@gmail.com
