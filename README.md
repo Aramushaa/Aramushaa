@@ -30,13 +30,13 @@ I build real-world IoT systems:
 
 ## 🚀 Projects
 
-### 🎾 Smart Tennis Field (Master’s Thesis)
+### 🎾 Wearable IoT Activity Pipeline (Master’s Thesis)
 Real-time IoT system for detecting and publishing game events.
 
 - Sensor data → MQTT → storage → dashboards  
 - Focus on low-latency event processing  
 
-🔗 https://github.com/Aramushaa/smart-tennis-field
+🔗 https://github.com/Aramushaa/Wearable-IoT-Activity-Pipeline
 
 ---
 
