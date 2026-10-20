@@ -1,75 +1,43 @@
 # Arash Omidi
 
-Junior IoT & Backend Developer based in Turin, Italy
+**Junior Python Backend Developer | IoT & Distributed Systems**  
+Based in Turin, Italy · MSc graduate, Politecnico di Torino
 
-I build real-world IoT systems:  
-**sensor data → messaging → storage → monitoring → APIs**
+I build Python-based backend services and IoT data pipelines, with hands-on experience in containerized applications, event-driven messaging, time-series data, and monitoring. I am developing my software engineering skills through practical projects and careful documentation.
 
----
+## Technical focus
 
-## 🧠 Focus
+- **Python & backend:** Python, FastAPI, REST APIs
+- **IoT & messaging:** MQTT, EMQX, sensor-data processing
+- **Data & monitoring:** InfluxDB, PostgreSQL/SQL, Grafana
+- **Development tools:** Docker, Git, GitHub, Linux command line
 
-- IoT systems & data pipelines  
-- Event-driven architecture  
-- Backend services (Python / FastAPI)  
-- Monitoring & alerting  
+## Selected projects
 
----
+### [Wearable IoT Activity Pipeline](https://github.com/Aramushaa/Wearable-IoT-Activity-Pipeline)
+Master's project exploring a distributed pipeline for wearable sensor data.
 
-## ⚙️ Tech Stack
+- Python microservices, FastAPI, Docker and MQTT for sensor-data flows
+- InfluxDB and Grafana for storage and visualization
+- Integrated an **existing** human activity recognition model with ONNX Runtime for inference; the model was not trained from scratch
 
-**Languages:** Python  
-**Messaging:** MQTT (EMQX / Mosquitto)  
-**Backend:** FastAPI  
-**Data:** PostgreSQL, InfluxDB (learning)  
-**Monitoring:** Grafana  
-**Tools:** Docker, Git  
-**OS:** Linux (in progress)
+### [Laboratory Temperature & Humidity Monitoring](https://github.com/Aramushaa/Lab_temp_hum_monitor)
+Environmental monitoring project using Python, Docker, InfluxDB and Grafana for collecting and visualizing sensor data.
 
----
+### [ThiefDetector](https://github.com/Aramushaa/ThiefDetector)
+Python-based event detection and alerting project, designed with modular components for future sensor integrations.
 
-## 🚀 Projects
+## Experience & education
 
-### 🎾 Wearable IoT Activity Pipeline (Master’s Thesis)
-Real-time IoT system for detecting and publishing game events.
+- **IoT and Distributed Systems Intern**, Politecnico di Torino (Apr–Aug 2025): experimented with Python and Eclipse Arrowhead service-orchestration concepts. The Arrowhead work was exploratory and did not result in a deployed production system.
+- **MSc, Digital Skills for Sustainable Societal Transitions**, Politecnico di Torino (2026)
+- **BSc, Civil Engineering**, Azad University, Tehran-South Branch (2018)
 
-- Sensor data → MQTT → storage → dashboards  
-- Focus on low-latency event processing  
+## Currently learning
 
-🔗 https://github.com/Aramushaa/Wearable-IoT-Activity-Pipeline
+Deeper Python and backend engineering, testing, Linux, CI/CD and cloud fundamentals through practical software projects.
 
----
+## Contact
 
-### 🛡️ ThiefDetector
-Event-driven IoT system for monitoring and alerting.
-
-- MQTT-based messaging  
-- Modular backend (Python)  
-- Time-series monitoring (in progress)  
-
-🔗 https://github.com/Aramushaa/ThiefDetector
-
----
-
-### 🌡️ Lab Monitoring System
-End-to-end IoT pipeline for environmental monitoring.
-
-- Sensor data collection  
-- Time-series storage  
-- Dashboards & alerts  
-
-🔗 https://github.com/Aramushaa/Lab_temp_hum_monitor
-
----
-
-## 📍 About Me
-
-Master’s student at Politecnico di Torino  
-Focused on building **practical, scalable systems**, not just code.
-
----
-
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/arashomidi  
-Email: arash.ds3t@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arashomidi)
+- [Email](mailto:arash.ds3t@gmail.com)
